@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<md:EntityDescriptor ID="_29e329fc-cf38-40d0-809e-4ebea4920ff1" entityID="https://loginspid.aruba.it" xmlns:md="urn:oasis:names:tc:SAML:2.0:metadata"><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+<ds:SignedInfo>
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/>
+<ds:Reference URI="#_29e329fc-cf38-40d0-809e-4ebea4920ff1">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+<ds:Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+<ds:DigestValue>YAS+6RMbTi+0IlwnTd6Obv3gdWIznKMqf0qpIwK0wRA=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue>
+h9TZA0zy6FVuCZp4mBgjxkf/OpOL6/t1HXya2FBqkDNo9M2uW2LrCYhW2e7ISSAG62HERI25Fko3&#xd;
+r8ZlibgcqY7XuFLLjWx4nvZdvtpDDKi6QdxOHSxCR40Uf6mLK8qaYPCdkIAKy1BAscyZVXMmc9Wf&#xd;
+rHI0Y8+hKwNRwV2jqFiMAAsPfLamh5anyiieune6D3P3natCoyNtzsWqq5xV/ZvgYGAdtTO0qFnd&#xd;
+4o95wVnVYMxbLWbSrIbT+I5j8+cryxYlv4rBbi0vSvSDAgRAodrFpIrT4aflzWEGrQ6CbzMWmEfb&#xd;
+mHbX+NYZCtjg8Vn2ZiZe5LUgkl0PGChMu0jTHJsAn00RoImMBi/vqBRq74McMkkSBfhE2oKXlJxX&#xd;
+8dJJrZn0aCFE5vtzx6OmC491wU4iWLoCpaUnTw8KB56U0SBe5Ph3edxLYOB8SnZ4r546AjICY+1m&#xd;
+LpghpNEuYqPWh9kAWXVycfnCn3OcCCFJXixGhAFTeZ/A7mv6acMa5ZzXwryVQJi2CceXFaI/Smjp&#xd;
+nQI7VJ9o3V/2g8uQ5GmzkE5gmU94kAJLOPyAHTV/avCqVk7snWMmXuKxTwpEug/EPTuawSYc7Lmt&#xd;
+yjg1kqpovkVrXsCRsqRJTv5MhTGGFCwy+Q1pxZOdoJInu64HbIpFNFH22ef6GXa7aD4Nr1IInx0=
+</ds:SignatureValue>
+<ds:KeyInfo><ds:X509Data><ds:X509Certificate>MIIFxzCCA68CFALhxes4JOi549eJuwYiF90DKMeKMA0GCSqGSIb3DQEBCwUAMIGfMRkwFwYDVQQD
+DBBBcnViYSBQRUMgUy5wLkEuMQswCQYDVQQGEwJJVDEZMBcGA1UEBwwQUG9udGUgU2FuIFBpZXRy
+bzEaMBgGA1UEYQwRVkFUSVQtMDE4NzkwMjA1MTcxGTAXBgNVBAoMEEFydWJhIFBFQyBTLnAuQS4x
+IzAhBgNVBFMMGmh0dHBzOi8vbG9naW5zcGlkLmFydWJhLml0MB4XDTI0MTIyNDEzNDExNloXDTM0
+MTIyMjEzNDExNlowgZ8xGTAXBgNVBAMMEEFydWJhIFBFQyBTLnAuQS4xCzAJBgNVBAYTAklUMRkw
+FwYDVQQHDBBQb250ZSBTYW4gUGlldHJvMRowGAYDVQRhDBFWQVRJVC0wMTg3OTAyMDUxNzEZMBcG
+A1UECgwQQXJ1YmEgUEVDIFMucC5BLjEjMCEGA1UEUwwaaHR0cHM6Ly9sb2dpbnNwaWQuYXJ1YmEu
+aXQwggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIKAoICAQDoSPnVaC91ZkFixGMbZSBVUWwYC7nu
+bBKwaGu/KUhNxn4Ii33GKCm6+/Jju9THIJo2ta/l49ZKt0Dxf1Wwg0Nm5kiSJY2PInmE9TIGC0Xo
+8gfce8yckrwoIvvaDtXLiLIVxw5VePrgMLEtiPJS/FnNvSsVTTm7EAsH/M2cTDUkoenVqFpBx2QF
+Jj1oFXk9bfdJw5tBlCHnAI6dFQakW3FG0OIt9TkKJQoj8QArg4K0CFaf6HzE++hyEna1OQ7znp0X
+rHGOfDPrsyfG3CV3N5gByppdygdJkEsYGK3KW7yB1sNxDWWhvbj5uyPFgxllvTTsjDnRVWSVnaef
+kWU8RzDmUlv13DogkhEQUxRp4TaSjDH788oHEOKU8OZFLKehf9lRW+YQdv/gBCpcq8KLq/VVHkM6
++IgSmKRlZRsDQJjmL2SdLRQkuOhXksIDWRg2r1C0UhhUBxusFjKe28B1bo9EACdKAyGTG0Fnz/um
+7M85tLF/KYrr0jZBF2bvgzD2tFkqr3r4YBlSuMbfEHhDtn1s+eXR9YCgRSnpCScFS80Jb/hjaj/L
+QqCV9TkYAs2XF7FFVkmG3S1sW7ZX+tZ3uld0LO2fSxko9nrHbQBG2/LtzWFAqFunzQBYwd0eaosN
+oOgJkl+i8NKA1XCrxZPoxvZ8wJejPueOmjK4syBQKL8vZwIDAQABMA0GCSqGSIb3DQEBCwUAA4IC
+AQCutTVbK7B5QVLEiVa5a1X5epY4RVAlQBrK7bHkzxLN2Xxiph17K7x2OhaAs8BPOht6/5mIECpS
+TT1grwwQxsvgFYto2FjwqP08n3ENC+GfXNY2oxuMk2FRgqLUrkLQrvURdgl4i9Au8POkk3fXeGxf
+WKepW649jTwDpCSMogSIGrchTccdtxkmVdSaz5Rp3VLbTBqWT6Rzvc1NJi5DUy18I8SH2mtsmwMm
+e+f2RoVpoDhfuchcup9ucsDCNAvIjBb11s7kp9EEJUS1i8GgzLqvUYwy1BFCgAfU7T1/VDaeIq5Y
+XPFhZxyb4yexAaOanq3TaPRTynD/XhmPj0HOOLDld+QvEWNJLOj1RZ1R2lxXoAemjqZQwjzb6vNi
+ugd1ADcx9Id/tjzdqO4KkKyZPUFr+kT+b8BekC2+hIZ/jJ4xRqoYv/5mCmoLTGiW6Szda33ROSg3
++l+QYlOcyqccOBmkDsa011cNxR+hPzo42f0runDBOjSAMNcOPCbg6f9kEMruGk7ULgzhZ47OPmgW
+QmPbHNI73r41Xda+srxiCFBf2efeE9Mjd+FRJxE44Id787wkrp5kXm665ar/zv3oRBLD8p6Fnlir
++uzUJzMFVcN0ppoII20oygFDcNyGNF8kQXWuQ+nozD1QASqJ2bWS5kj34jmooUdtOKy/m+/RQlo9
+Hw==</ds:X509Certificate></ds:X509Data></ds:KeyInfo></ds:Signature><md:Extensions><spid:SupportedAgeLimit xmlns:spid="https://spid.gov.it/saml-extensions"/></md:Extensions><md:IDPSSODescriptor WantAuthnRequestsSigned="true" protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol" xmlns:md="urn:oasis:names:tc:SAML:2.0:metadata"><md:KeyDescriptor use="signing"><ds:KeyInfo xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:X509Data><ds:X509Certificate>MIIFxzCCA68CFALhxes4JOi549eJuwYiF90DKMeKMA0GCSqGSIb3DQEBCwUAMIGfMRkwFwYDVQQD
+DBBBcnViYSBQRUMgUy5wLkEuMQswCQYDVQQGEwJJVDEZMBcGA1UEBwwQUG9udGUgU2FuIFBpZXRy
+bzEaMBgGA1UEYQwRVkFUSVQtMDE4NzkwMjA1MTcxGTAXBgNVBAoMEEFydWJhIFBFQyBTLnAuQS4x
+IzAhBgNVBFMMGmh0dHBzOi8vbG9naW5zcGlkLmFydWJhLml0MB4XDTI0MTIyNDEzNDExNloXDTM0
+MTIyMjEzNDExNlowgZ8xGTAXBgNVBAMMEEFydWJhIFBFQyBTLnAuQS4xCzAJBgNVBAYTAklUMRkw
+FwYDVQQHDBBQb250ZSBTYW4gUGlldHJvMRowGAYDVQRhDBFWQVRJVC0wMTg3OTAyMDUxNzEZMBcG
+A1UECgwQQXJ1YmEgUEVDIFMucC5BLjEjMCEGA1UEUwwaaHR0cHM6Ly9sb2dpbnNwaWQuYXJ1YmEu
+aXQwggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIKAoICAQDoSPnVaC91ZkFixGMbZSBVUWwYC7nu
+bBKwaGu/KUhNxn4Ii33GKCm6+/Jju9THIJo2ta/l49ZKt0Dxf1Wwg0Nm5kiSJY2PInmE9TIGC0Xo
+8gfce8yckrwoIvvaDtXLiLIVxw5VePrgMLEtiPJS/FnNvSsVTTm7EAsH/M2cTDUkoenVqFpBx2QF
+Jj1oFXk9bfdJw5tBlCHnAI6dFQakW3FG0OIt9TkKJQoj8QArg4K0CFaf6HzE++hyEna1OQ7znp0X
+rHGOfDPrsyfG3CV3N5gByppdygdJkEsYGK3KW7yB1sNxDWWhvbj5uyPFgxllvTTsjDnRVWSVnaef
+kWU8RzDmUlv13DogkhEQUxRp4TaSjDH788oHEOKU8OZFLKehf9lRW+YQdv/gBCpcq8KLq/VVHkM6
++IgSmKRlZRsDQJjmL2SdLRQkuOhXksIDWRg2r1C0UhhUBxusFjKe28B1bo9EACdKAyGTG0Fnz/um
+7M85tLF/KYrr0jZBF2bvgzD2tFkqr3r4YBlSuMbfEHhDtn1s+eXR9YCgRSnpCScFS80Jb/hjaj/L
+QqCV9TkYAs2XF7FFVkmG3S1sW7ZX+tZ3uld0LO2fSxko9nrHbQBG2/LtzWFAqFunzQBYwd0eaosN
+oOgJkl+i8NKA1XCrxZPoxvZ8wJejPueOmjK4syBQKL8vZwIDAQABMA0GCSqGSIb3DQEBCwUAA4IC
+AQCutTVbK7B5QVLEiVa5a1X5epY4RVAlQBrK7bHkzxLN2Xxiph17K7x2OhaAs8BPOht6/5mIECpS
+TT1grwwQxsvgFYto2FjwqP08n3ENC+GfXNY2oxuMk2FRgqLUrkLQrvURdgl4i9Au8POkk3fXeGxf
+WKepW649jTwDpCSMogSIGrchTccdtxkmVdSaz5Rp3VLbTBqWT6Rzvc1NJi5DUy18I8SH2mtsmwMm
+e+f2RoVpoDhfuchcup9ucsDCNAvIjBb11s7kp9EEJUS1i8GgzLqvUYwy1BFCgAfU7T1/VDaeIq5Y
+XPFhZxyb4yexAaOanq3TaPRTynD/XhmPj0HOOLDld+QvEWNJLOj1RZ1R2lxXoAemjqZQwjzb6vNi
+ugd1ADcx9Id/tjzdqO4KkKyZPUFr+kT+b8BekC2+hIZ/jJ4xRqoYv/5mCmoLTGiW6Szda33ROSg3
++l+QYlOcyqccOBmkDsa011cNxR+hPzo42f0runDBOjSAMNcOPCbg6f9kEMruGk7ULgzhZ47OPmgW
+QmPbHNI73r41Xda+srxiCFBf2efeE9Mjd+FRJxE44Id787wkrp5kXm665ar/zv3oRBLD8p6Fnlir
++uzUJzMFVcN0ppoII20oygFDcNyGNF8kQXWuQ+nozD1QASqJ2bWS5kj34jmooUdtOKy/m+/RQlo9
+Hw==</ds:X509Certificate></ds:X509Data></ds:KeyInfo></md:KeyDescriptor><md:KeyDescriptor use="signing"><ds:KeyInfo xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:X509Data><ds:X509Certificate>MIIFxzCCA68CFCg6DDakIggTIjlx9mrWRXxxns8dMA0GCSqGSIb3DQEBCwUAMIGfMRkwFwYDVQQD
+DBBBcnViYSBQRUMgUy5wLkEuMQswCQYDVQQGEwJJVDEZMBcGA1UEBwwQUG9udGUgU2FuIFBpZXRy
+bzEaMBgGA1UEYQwRVkFUSVQtMDE4NzkwMjA1MTcxGTAXBgNVBAoMEEFydWJhIFBFQyBTLnAuQS4x
+IzAhBgNVBFMMGmh0dHBzOi8vbG9naW5zcGlkLmFydWJhLml0MB4XDTI0MTIyNDEzMzkyNFoXDTI0
+MTIyNTEzMzkyNFowgZ8xGTAXBgNVBAMMEEFydWJhIFBFQyBTLnAuQS4xCzAJBgNVBAYTAklUMRkw
+FwYDVQQHDBBQb250ZSBTYW4gUGlldHJvMRowGAYDVQRhDBFWQVRJVC0wMTg3OTAyMDUxNzEZMBcG
+A1UECgwQQXJ1YmEgUEVDIFMucC5BLjEjMCEGA1UEUwwaaHR0cHM6Ly9sb2dpbnNwaWQuYXJ1YmEu
+aXQwggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIKAoICAQDoSPnVaC91ZkFixGMbZSBVUWwYC7nu
+bBKwaGu/KUhNxn4Ii33GKCm6+/Jju9THIJo2ta/l49ZKt0Dxf1Wwg0Nm5kiSJY2PInmE9TIGC0Xo
+8gfce8yckrwoIvvaDtXLiLIVxw5VePrgMLEtiPJS/FnNvSsVTTm7EAsH/M2cTDUkoenVqFpBx2QF
+Jj1oFXk9bfdJw5tBlCHnAI6dFQakW3FG0OIt9TkKJQoj8QArg4K0CFaf6HzE++hyEna1OQ7znp0X
+rHGOfDPrsyfG3CV3N5gByppdygdJkEsYGK3KW7yB1sNxDWWhvbj5uyPFgxllvTTsjDnRVWSVnaef
+kWU8RzDmUlv13DogkhEQUxRp4TaSjDH788oHEOKU8OZFLKehf9lRW+YQdv/gBCpcq8KLq/VVHkM6
++IgSmKRlZRsDQJjmL2SdLRQkuOhXksIDWRg2r1C0UhhUBxusFjKe28B1bo9EACdKAyGTG0Fnz/um
+7M85tLF/KYrr0jZBF2bvgzD2tFkqr3r4YBlSuMbfEHhDtn1s+eXR9YCgRSnpCScFS80Jb/hjaj/L
+QqCV9TkYAs2XF7FFVkmG3S1sW7ZX+tZ3uld0LO2fSxko9nrHbQBG2/LtzWFAqFunzQBYwd0eaosN
+oOgJkl+i8NKA1XCrxZPoxvZ8wJejPueOmjK4syBQKL8vZwIDAQABMA0GCSqGSIb3DQEBCwUAA4IC
+AQA6COXfO7yAt5zCoPchKqG4fnpt8GXZXTjhr60L3Dj4Tao02vyXImAyt2Qv+g6HoEZOI09dFz+W
+Z0hAUPPZyw+ms+bCF0zSNGOjt2NbLChNhqWNsQqoJESshZG9H5q9+RfQ3yoxJghgUbeB7U/5XseU
+QDhPY7pKlIRwhBwQgHxK27MNCIiSlURtpAlkGE7NyaqKcI3xGdTP3LFsbwwkl9A02fytkpOTY7bR
+2Z4iGxxRpirsRTgyxlEG63b88dBruaIxFgKnnvYCapjA+0Te2vLcToZPDbHklkmawuxX0bVY11g5
+rVqIKoS1vYjp6tEys4svhhrX6LirvH+cQCFbX1iDvljhTcVy4hR6l97So2dPwi8XezrIdo9C7c0C
+XJl2nVxrHSMGbmhbZRTEZyE660Rye6PdKQ6uztDeTOxNhRhRJBuY7iedxZPeOU48DpBOmHi3D3cb
+ujaKRCqJBHDW6N2VcsM7dz4r/yAGyNNVChdsoJ2dP5esBM0UweVhAzREngZYcC90ixh8b1Zks9Lz
+OwAKTpf7AnCZlrStR75JKVjOHYEomqDjt7mTie4nhHbF+A+6S7hQd9qsPwWyBZC5VTGuC5wLMIAa
+czgE35aXsS6fbwq2rdIA3dSNIceEFS7GE34mm95rL+oflUmldQw0/IN+aTXlDxKKui2YzLhZZL+u
+6Q==</ds:X509Certificate></ds:X509Data></ds:KeyInfo></md:KeyDescriptor><md:SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="http://localhost:8080/ArubaIdPSignInFE/ServiceLogoutRequest"/><md:SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect" Location="http://localhost:8080/ArubaIdPSignInFE/ServiceLogoutRequest"/><md:NameIDFormat>urn:oasis:names:tc:SAML:2.0:nameid-format:transient</md:NameIDFormat><md:SingleSignOnService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="http://localhost:8080/ArubaIdPSignInFE/ServiceLoginWelcome"/><md:SingleSignOnService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect" Location="http://localhost:8080/ArubaIdPSignInFE/ServiceLoginWelcome"/><saml2:Attribute FriendlyName="Codice identificativo SPID" Name="spidCode" xmlns:saml2="urn:oasis:names:tc:SAML:2.0:assertion"/><saml2:Attribute FriendlyName="Nome" Name="name" xmlns:saml2="urn:oasis:names:tc:SAML:2.0:assertion"/><saml2:Attribute FriendlyName="Cognome" Name="familyName" xmlns:saml2="urn:oasis:names:tc:SAML:2.0:assertion"/><saml2:Attribute FriendlyName="Luogo di nascita" Name="placeOfBirth" xmlns:saml2="urn:oasis:names:tc:SAML:2.0:assertion"/><saml2:Attribute FriendlyName="Provincia di nascita" Name="countyOfBirth" xmlns:saml2="urn:oasis:names:tc:SAML:2.0:assertion"/><saml2:Attribute FriendlyName="Data di nascita" Name="dateOfBirth" xmlns:saml2="urn:oasis:names:tc:SAML:2.0:assertion"/><saml2:Attribute FriendlyName="Sesso" Name="gender" xmlns:saml2="urn:oasis:names:tc:SAML:2.0:assertion"/><saml2:Attribute FriendlyName="Ragione o denominazione sociale" Name="companyName" xmlns:saml2="urn:oasis:names:tc:SAML:2.0:assertion"/><saml2:Attribute FriendlyName="Codice Fiscale Persona Giuridica" Name="companyFiscalNumber" xmlns:saml2="urn:oasis:names:tc:SAML:2.0:assertion"/><saml2:Attribute FriendlyName="Sede legale" Name="registeredOffice" xmlns:saml2="urn:oasis:names:tc:SAML:2.0:assertion"/><saml2:Attribute FriendlyName="Codice fiscale" Name="fiscalNumber" xmlns:saml2="urn:oasis:names:tc:SAML:2.0:assertion"/><saml2:Attribute FriendlyName="Partita IVA" Name="ivaCode" xmlns:saml2="urn:oasis:names:tc:SAML:2.0:assertion"/><saml2:Attribute FriendlyName="Documento d'identità" Name="idCard" xmlns:saml2="urn:oasis:names:tc:SAML:2.0:assertion"/><saml2:Attribute FriendlyName="Numero di telefono mobile" Name="mobilePhone" xmlns:saml2="urn:oasis:names:tc:SAML:2.0:assertion"/><saml2:Attribute FriendlyName="Indirizzo di posta elettronica" Name="email" xmlns:saml2="urn:oasis:names:tc:SAML:2.0:assertion"/><saml2:Attribute FriendlyName="Domicilio fisico" Name="address" xmlns:saml2="urn:oasis:names:tc:SAML:2.0:assertion"/><saml2:Attribute FriendlyName="Indirizzo domicilio fisico" Name="domicileStreetAddress" xmlns:saml2="urn:oasis:names:tc:SAML:2.0:assertion"/><saml2:Attribute FriendlyName="CAP domicilio fisico" Name="domicilePostalCode" xmlns:saml2="urn:oasis:names:tc:SAML:2.0:assertion"/><saml2:Attribute FriendlyName="Comune domicilio fisico" Name="domicileMunicipality" xmlns:saml2="urn:oasis:names:tc:SAML:2.0:assertion"/><saml2:Attribute FriendlyName="Provincia domicilio fisico" Name="domicileProvince" xmlns:saml2="urn:oasis:names:tc:SAML:2.0:assertion"/><saml2:Attribute FriendlyName="Nazione domicilio fisico" Name="domicileNation" xmlns:saml2="urn:oasis:names:tc:SAML:2.0:assertion"/><saml2:Attribute FriendlyName="Data di scadenza identità" Name="expirationDate" xmlns:saml2="urn:oasis:names:tc:SAML:2.0:assertion"/><saml2:Attribute FriendlyName="Domicilio digitale" Name="digitalAddress" xmlns:saml2="urn:oasis:names:tc:SAML:2.0:assertion"/></md:IDPSSODescriptor><md:Organization xmlns:md="urn:oasis:names:tc:SAML:2.0:metadata"><md:OrganizationName xml:lang="it">ArubaPEC S.p.A.</md:OrganizationName><md:OrganizationDisplayName xml:lang="it">ArubaPEC S.p.A.</md:OrganizationDisplayName><md:OrganizationURL xml:lang="it">https://www.pec.it/</md:OrganizationURL></md:Organization></md:EntityDescriptor>
